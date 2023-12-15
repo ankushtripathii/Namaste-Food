@@ -1,0 +1,22 @@
+{
+  "name": "namastefood",
+  "version": "1.0.0",
+  "description": "Food website",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushtripathii/Namaste-Food.git"
+  },
+  "author": "Ankush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushtripathii/Namaste-Food/issues"
+  },
+  "homepage": "https://github.com/ankushtripathii/Namaste-Food#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
